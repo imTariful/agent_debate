@@ -1,0 +1,5 @@
+python-dotenv>=1.0.0
+graphviz>=0.20
+pytest>=7.0
+langgraph
+langchain-core

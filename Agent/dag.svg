@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'>
+  <g>
+    <rect x='10' y='10' width='120' height='30' fill='#e6f2ff' stroke='#333' />
+    <text x='20' y='30'>UserInputNode</text>
+    <rect x='150' y='10' width='140' height='30' fill='#fff2cc' stroke='#333' />
+    <text x='160' y='30'>RoundsController</text>
+    <rect x='10' y='60' width='100' height='30' fill='#e6ffe6' stroke='#333' />
+    <text x='20' y='80'>AgentA</text>
+    <rect x='130' y='60' width='100' height='30' fill='#ffe6f2' stroke='#333' />
+    <text x='140' y='80'>AgentB</text>
+    <rect x='250' y='60' width='100' height='30' fill='#f2f2f2' stroke='#333' />
+    <text x='260' y='80'>MemoryNode</text>
+    <rect x='150' y='120' width='80' height='30' fill='#ffe6cc' stroke='#333' />
+    <text x='160' y='140'>JudgeNode</text>
+  </g>
+  <path d='M130 25 L150 25' stroke='#333' marker-end='url(#arrow)' />
+  <path d='M90 70 L120 70' stroke='#333' marker-end='url(#arrow)' />
+  <path d='M210 70 L230 70' stroke='#333' marker-end='url(#arrow)' />
+</svg>
