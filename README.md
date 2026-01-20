@@ -193,6 +193,3 @@ I can prepare a demo script and record the video if you'd like — say the word 
 MIT — feel free to reuse and adapt.
 
 ---
-
-If you'd like, I can also: (a) add more test cases that assert stricter coherence checks, (b) wire in an LLM with a safe abstraction layer, or (c) produce the demo video script and record it. Tell me which you'd prefer next. ✨
-
